@@ -27,9 +27,8 @@
 
 ### Credits
 
-Originally built for the LearningFuze Hackathon on 10/10/17 to 10/12/17
+Originally built for the LearningFuze Hackathon on 04/10/18 to 04/12/17
 
 - Team:
-  - Michael Lin
-  - Matt Barnett
-  - Saeed Alavi
+ Saeed Alavi
+ - Michael Lin
